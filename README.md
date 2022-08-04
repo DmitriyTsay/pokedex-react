@@ -1,6 +1,8 @@
 # Note from Author (Tsay D)
 This project is my example of how I work with React and how do I use props, states. Also in this project I play with PokeAPI (getting data and transferring it into states of react components).
 
+You can view it on Vercel: https://pokedex-react-tawny.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
